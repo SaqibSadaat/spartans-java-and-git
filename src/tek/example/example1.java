@@ -9,5 +9,8 @@ public class example1 {
 
     String name = "Saqib";
     System.out.println(name);
+
+    String name1 = "John";
+    System.out.println(name1);
   }
 }
